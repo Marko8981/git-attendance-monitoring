@@ -64,4 +64,10 @@ Date: 03-16-23
 	- Create student table migration 
   - creating attendance table migration
   - editing for the tables formats for the attendance monitoring
-  - then adding the 
+  - then adding the thebuttons for redirecting to home and students 
+  
+  
+Date: 03-21-23 
+
+  - planning to create students accounts for the validity of their identification 
+  
